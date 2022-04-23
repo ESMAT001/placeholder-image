@@ -6,9 +6,9 @@
   "author": "ESMAT001 <esmat10.niazi@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js",
-    "debug": "node --inspect server.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "debug": "node --inspect index.js"
   },
   "dependencies": {
     "express": "^4.17.3",
